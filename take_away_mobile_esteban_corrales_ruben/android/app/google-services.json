@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856182454802",
+    "firebase_url": "https://take-away-mobile-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "take-away-mobile",
+    "storage_bucket": "take-away-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856182454802:android:297943ceb9ef2c8beaf6cb",
+        "android_client_info": {
+          "package_name": "com.example.take_away_mobile_esteban_corrales_ruben"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856182454802-okrihu7co6ht9fsn77jct1carksaqm6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsoO5exJOY_vC2qA0dmHJPeEamTPI-bFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856182454802-okrihu7co6ht9fsn77jct1carksaqm6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
